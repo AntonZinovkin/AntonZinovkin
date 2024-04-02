@@ -5,7 +5,7 @@
 #### Pandas, Numpy, Matplotlib, Seaborn, Plotly
 ✨ 
 ##### Visualization tools:
-#### Tableau, MS Power Point\
+#### Tableau, MS Power Point
 ✨ 
 ##### Databases:
 #### Postgre SQL
